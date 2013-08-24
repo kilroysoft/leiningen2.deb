@@ -1,0 +1,11 @@
+Package: leiningen2
+Version: 2.3.2-1
+Architecture: all
+Maintainer: ivan <ivan@leblob.ch>
+Installed-Size: 61
+Depends: openjdk-7-jdk, wget
+Section: unknown
+Priority: extra
+Homepage: https://github.com/technomancy/leiningen/blob/master/README.md
+Description: Automating Clojure projects.
+ Leiningen is for automating Clojure projects without setting your hair on fire.

@@ -1,0 +1,15 @@
+Source: leiningen2
+Section: unknown
+Priority: extra
+Maintainer: ivan <ivan@leblob.ch>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/technomancy/leiningen/blob/master/README.md
+Vcs-Git: git@github.com:technomancy/leiningen.git
+Vcs-Browser: https://github.com/technomancy/leiningen.git;a=summary
+
+Package: leiningen2
+Architecture: all
+Depends: openjdk-7-jdk, wget
+Description: Automating Clojure projects.
+ Leiningen is for automating Clojure projects without setting your hair on fire.

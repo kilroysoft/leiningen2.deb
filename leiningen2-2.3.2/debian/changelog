@@ -1,0 +1,5 @@
+leiningen2 (2.3.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- ivan <ivan@leblob.ch>  Thu, 22 Aug 2013 15:59:59 +0200
